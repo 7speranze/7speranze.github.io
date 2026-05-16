@@ -1,0 +1,16 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.page-content {
+  max-width: 680px;
+  margin: 0 auto;
+  padding: 0 20px;
+  line-height: 1.9;
+  font-size: 1.05em;
+}
+
+.wrapper {
+  max-width: 720px;
+}
