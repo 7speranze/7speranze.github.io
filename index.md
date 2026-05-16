@@ -1,3 +1,1 @@
-/zh
-/en
-/images
+
