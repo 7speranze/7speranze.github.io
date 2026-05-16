@@ -132,7 +132,8 @@ title: 將臨
 
 「無....彩....」
 
----
+![桌山幾何](assets/images/Jianglin-Geometry-ChatGPT.jpg)
+<img src="assets/images/dieprivier.jpg" width="600" alt="桌山幾何">
 
 ## （4）
 
