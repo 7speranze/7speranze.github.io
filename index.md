@@ -11,7 +11,7 @@ title: 深河 Dieprivier
 
 - [小說](zh/novels.md)
 - [散文](zh/prose.md)
-- [詩](zh/poetry.md)
+- [詩集](zh/poetry.md)
 - [翻譯](zh/translation.md)
 
 ---
