@@ -6,7 +6,6 @@ title: 再寫杜蘭朵
 
 # 《再寫杜蘭朵》
 
-Turandot, Once More
 
 
 
